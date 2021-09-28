@@ -1,6 +1,7 @@
 div {
     padding: 40px;
     background-color: cadetblue;
+    border-radius: 5px;
 }
 body{
     padding: 50px;
