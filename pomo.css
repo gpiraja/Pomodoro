@@ -1,0 +1,18 @@
+div {
+    padding: 40px;
+    background-color: cadetblue;
+}
+body{
+    padding: 50px;
+    background-color: cornflowerblue;
+    width: 400px;
+}
+
+* {
+    color: cornsilk;
+}
+input{
+   background-color: rgb(40, 115, 117);
+   border: 0ch; 
+   
+}
